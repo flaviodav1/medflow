@@ -1,0 +1,17 @@
+# dependências
+node_modules/
+
+# arquivos de build
+dist/
+build/
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# ambiente
+.env
